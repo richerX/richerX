@@ -37,15 +37,31 @@
 
 <p>
 <img align="left" height ="42px" src="icons/docker.svg">
-<img align="left" height ="42px" src="icons/gitlab.svg">
 <img align="left" height ="42px" src="icons/jenkins.svg">
 <br><br></p>
 
 <p>
-<img align="left" height ="42px" src="icons/pytorch.svg">
-<img align="left" height ="42px" src="icons/tensorflow.svg"> 
-<img align="left" height ="42px" src="icons/react.svg">
+<img align="left" height ="42px" src="icons/unity.svg">
+<img align="left" height ="42px" src="icons/unreal-engine.svg">
 <br><br></p>
+
+<p>
+<img align="left" height ="42px" src="icons/numpy.svg">
+<img align="left" height ="42px" src="icons/pandas.svg">
+<img align="left" height ="42px" src="icons/scikit_learn.svg">
+<img align="left" height ="42px" src="icons/tensorflow.svg"> 
+<img align="left" height ="42px" src="icons/pytorch.svg">
+<br><br></p>
+
+<p>
+<img align="left" height ="42px" src="icons/net.svg">
+<img align="left" height ="42px" src="icons/react.svg">
+<img align="left" height ="42px" src="icons/zend.svg">
+<img align="left" height ="42px" src="icons/guzzle.png">
+<img align="left" height ="42px" src="icons/maven.svg">
+<br><br></p>
+
+<br><br>
 
 ### :email: Contacts
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilya.kunin@mail.ru)
