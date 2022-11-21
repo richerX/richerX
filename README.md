@@ -11,80 +11,124 @@
 ![Most Used Languages](https://raw.githubusercontent.com/richerX/github-stats-transparent/output/generated/languages.svg)
 
 ### :hammer: Languages and Tools
-<p>
-<img align="left" height ="42px" src="icons/python.svg">
-<img align="left" height ="42px" src="icons/csharp.svg">
-<img align="left" height ="42px" src="icons/cplusplus.svg">
-<img align="left" height ="42px" src="icons/c.svg">
-<img align="left" height ="42px" src="icons/java.svg">
-<img align="left" height ="42px" src="icons/javascript.svg">
-<img align="left" height ="42px" src="icons/php.svg">
-<img align="left" height ="42px" src="icons/go.svg">
-<img align="left" height ="42px" src="icons/bash-colored.svg">
-<br><br></p>
+<table>
+  <tr>
+    <th>Group</th>
+    <th>Languages and Tools</th>
+  </tr>
+  
+  <tr>
+    <td>Languages</td>
+    <td>
+        <img align="left" height ="42px" src="icons/python.svg">
+        <img align="left" height ="42px" src="icons/csharp.svg">
+        <img align="left" height ="42px" src="icons/cplusplus.svg">
+        <img align="left" height ="42px" src="icons/c.svg">
+        <img align="left" height ="42px" src="icons/java.svg">
+        <img align="left" height ="42px" src="icons/javascript.svg">
+        <img align="left" height ="42px" src="icons/php.svg">
+        <img align="left" height ="42px" src="icons/go.svg">
+        <img align="left" height ="42px" src="icons/bash-colored.svg">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Testing</td>
+    <td>
+        <img align="left" height ="42px" src="icons/junit.png">
+        <img align="left" height ="42px" src="icons/pytest.svg">
+        <img align="left" height ="42px" src="icons/gradle.svg">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Databases</td>
+    <td>
+        <img align="left" height ="42px" src="icons/sqlite.svg">
+        <img align="left" height ="42px" src="icons/postgresql.svg">
+        <img align="left" height ="42px" src="icons/ninox.svg">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>DevOps</td>
+    <td>
+        <img align="left" height ="42px" src="icons/docker.svg">
+        <img align="left" height ="42px" src="icons/jenkins.svg">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>DevOps</td>
+    <td>
+        <img align="left" height ="42px" src="icons/unity.svg">
+        <img align="left" height ="42px" src="icons/unreal-engine.svg">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Data analysis</td>
+    <td>
+        <img align="left" height ="42px" src="icons/numpy.svg">
+        <img align="left" height ="42px" src="icons/pandas.svg">
+        <img align="left" height ="42px" src="icons/scikit_learn.svg">
+        <img align="left" height ="42px" src="icons/tensorflow.svg"> 
+        <img align="left" height ="42px" src="icons/pytorch.svg">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Frameworks</td>
+    <td>
+        <img align="left" height ="42px" src="icons/net.svg">
+        <img align="left" height ="42px" src="icons/react.svg">
+        <img align="left" height ="42px" src="icons/zend.svg">
+        <img align="left" height ="42px" src="icons/guzzle.png">
+        <img align="left" height ="42px" src="icons/maven.svg">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>OS</td>
+    <td>
+        <img align="left" height ="42px" src="icons/windows.svg">
+        <img align="left" height ="42px" src="icons/ubuntu.svg">
+        <img align="left" height ="42px" src="icons/debian.svg">
+        <img align="left" height ="42px" src="icons/redhat.svg">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>IDE</td>
+    <td>
+        <img align="left" height ="42px" src="icons/jetbrains.svg">
+        <img align="left" height ="42px" src="icons/visualstudio.svg">
+        <img align="left" height ="42px" src="icons/visual-studio-code.svg">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Utils</td>
+    <td>
+        <img align="left" height ="42px" src="icons/termius.svg">
+        <img align="left" height ="42px" src="icons/postman.svg">
+        <img align="left" height ="42px" src="icons/draw_io.svg">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Team</td>
+    <td>
+        <img align="left" height ="42px" src="icons/github.svg">
+        <img align="left" height ="42px" src="icons/gitlab.svg">
+        <img align="left" height ="42px" src="icons/jira.svg">
+    </td>
+  </tr>
+  
+</table>
 
-<p>
-<img align="left" height ="42px" src="icons/junit.png">
-<img align="left" height ="42px" src="icons/pytest.svg">
-<img align="left" height ="42px" src="icons/gradle.svg">
-<br><br></p>
 
-<p>
-<img align="left" height ="42px" src="icons/sqlite.svg">
-<img align="left" height ="42px" src="icons/postgresql.svg">
-<img align="left" height ="42px" src="icons/ninox.svg">
-<br><br></p>
 
-<p>
-<img align="left" height ="42px" src="icons/docker.svg">
-<img align="left" height ="42px" src="icons/jenkins.svg">
-<br><br></p>
-
-<p>
-<img align="left" height ="42px" src="icons/unity.svg">
-<img align="left" height ="42px" src="icons/unreal-engine.svg">
-<br><br></p>
-
-<p>
-<img align="left" height ="42px" src="icons/numpy.svg">
-<img align="left" height ="42px" src="icons/pandas.svg">
-<img align="left" height ="42px" src="icons/scikit_learn.svg">
-<img align="left" height ="42px" src="icons/tensorflow.svg"> 
-<img align="left" height ="42px" src="icons/pytorch.svg">
-<br><br></p>
-
-<p>
-<img align="left" height ="42px" src="icons/net.svg">
-<img align="left" height ="42px" src="icons/react.svg">
-<img align="left" height ="42px" src="icons/zend.svg">
-<img align="left" height ="42px" src="icons/guzzle.png">
-<img align="left" height ="42px" src="icons/maven.svg">
-<br><br></p>
-
-<p>
-<img align="left" height ="42px" src="icons/windows.svg">
-<img align="left" height ="42px" src="icons/ubuntu.svg">
-<img align="left" height ="42px" src="icons/debian.svg">
-<img align="left" height ="42px" src="icons/redhat.svg">
-<br><br></p>
-
-<p>
-<img align="left" height ="42px" src="icons/jetbrains.svg">
-<img align="left" height ="42px" src="icons/visualstudio.svg">
-<img align="left" height ="42px" src="icons/visual-studio-code.svg">
-<br><br></p>
-
-<p>
-<img align="left" height ="42px" src="icons/termius.svg">
-<img align="left" height ="42px" src="icons/postman.svg">
-<img align="left" height ="42px" src="icons/draw_io.svg">
-<br><br></p>
-
-<p>
-<img align="left" height ="42px" src="icons/github.svg">
-<img align="left" height ="42px" src="icons/gitlab.svg">
-<img align="left" height ="42px" src="icons/jira.svg">
-<br><br></p>
 
 <br><br>
 
