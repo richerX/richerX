@@ -68,6 +68,24 @@
 <img align="left" height ="42px" src="icons/redhat.png">
 <br><br></p>
 
+<p>
+<img align="left" height ="42px" src="icons/jetbrains.svg">
+<img align="left" height ="42px" src="icons/visualstudio.svg">
+<img align="left" height ="42px" src="icons/visual-studio-code.svg">
+<br><br></p>
+
+<p>
+<img align="left" height ="42px" src="icons/termius.svg">
+<img align="left" height ="42px" src="icons/postman.svg">
+<img align="left" height ="42px" src="icons/draw_io.svg">
+<br><br></p>
+
+<p>
+<img align="left" height ="42px" src="icons/github.svg">
+<img align="left" height ="42px" src="icons/gitlab.svg">
+<img align="left" height ="42px" src="icons/jira.svg">
+<br><br></p>
+
 <br><br>
 
 ### :email: Contacts
