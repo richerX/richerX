@@ -13,13 +13,32 @@
 ### :hammer: Languages and Tools
 <p>
 <img align="left" height ="42px" src="icons/python.svg">
-<img align="left" height ="42px" src="icons/c-sharp.svg">
-<img align="left" height ="42px" src="icons/c++.svg">
+<img align="left" height ="42px" src="icons/csharp.svg">
+<img align="left" height ="42px" src="icons/cplusplus.svg">
 <img align="left" height ="42px" src="icons/c.svg">
 <img align="left" height ="42px" src="icons/java.svg">
 <img align="left" height ="42px" src="icons/javascript.svg">
+<img align="left" height ="42px" src="icons/php.svg">
 <img align="left" height ="42px" src="icons/go.svg">
 <img align="left" height ="42px" src="icons/bash-colored.svg">
+<br><br></p>
+
+<p>
+<img align="left" height ="42px" src="icons/junit.png">
+<img align="left" height ="42px" src="icons/pytest.svg">
+<img align="left" height ="42px" src="icons/gradle.svg">
+<br><br></p>
+
+<p>
+<img align="left" height ="42px" src="icons/sqlite.svg">
+<img align="left" height ="42px" src="icons/postgresql.svg">
+<img align="left" height ="42px" src="icons/ninox.svg">
+<br><br></p>
+
+<p>
+<img align="left" height ="42px" src="icons/docker.svg">
+<img align="left" height ="42px" src="icons/gitlab.svg">
+<img align="left" height ="42px" src="icons/jenkins.svg">
 <br><br></p>
 
 <p>
