@@ -111,6 +111,7 @@
         <img align="left" height ="42px" src="icons/jetbrains.svg">
         <img align="left" height ="42px" src="icons/visualstudio.svg">
         <img align="left" height ="42px" src="icons/visual-studio-code.svg">
+        <img align="left" height ="42px" src="icons/wing.png">
     </td>
   </tr>
   
@@ -119,6 +120,7 @@
     <td>
         <img align="left" height ="42px" src="icons/termius.svg">
         <img align="left" height ="42px" src="icons/postman.svg">
+        <img align="left" height ="42px" src="icons/solar-putty.png">
         <img align="left" height ="42px" src="icons/draw_io.svg">
     </td>
   </tr>
