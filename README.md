@@ -11,12 +11,16 @@
 ![Most Used Languages](https://raw.githubusercontent.com/richerX/github-stats-transparent/output/generated/languages.svg)
 
 ### :hammer: Languages and Tools
-<img align="left" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg">
-<img align="left" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg"> 
-<img align="left" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg">
-<img align="left" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg">
-<img align="left" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg">
-<img align="left" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg">
+<img align="left" height ="42px" src="icons/python.svg">
+<img align="left" height ="42px" src="icons/c-sharp.svg">
+<img align="left" height ="42px" src="icons/c++.svg">
+<img align="left" height ="42px" src="icons/c.svg">
+<img align="left" height ="42px" src="icons/java.svg">
+<img align="left" height ="42px" src="icons/javascript.svg">
+
+<img align="left" height ="42px" src="icons/pytorch.svg">
+<img align="left" height ="42px" src="icons/tensorflow.svg"> 
+<img align="left" height ="42px" src="icons/react.svg">
 <br><br>
 
 ### :email: Contacts
