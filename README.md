@@ -63,10 +63,12 @@
   </tr>
   
   <tr>
-    <td>DevOps</td>
+    <td>Graphics</td>
     <td>
         <img align="left" height ="42px" src="icons/unity.svg">
         <img align="left" height ="42px" src="icons/unreal-engine.svg">
+        <img align="left" height ="42px" src="icons/java_fx.svg">
+        <img align="left" height ="42px" src="icons/winforms.png">
     </td>
   </tr>
   
@@ -78,6 +80,7 @@
         <img align="left" height ="42px" src="icons/scikit_learn.svg">
         <img align="left" height ="42px" src="icons/tensorflow.svg"> 
         <img align="left" height ="42px" src="icons/pytorch.svg">
+        <img align="left" height ="42px" src="icons/matplotlib.svg">
     </td>
   </tr>
   
@@ -108,6 +111,7 @@
         <img align="left" height ="42px" src="icons/jetbrains.svg">
         <img align="left" height ="42px" src="icons/visualstudio.svg">
         <img align="left" height ="42px" src="icons/visual-studio-code.svg">
+        <img align="left" height ="42px" src="icons/wing.png">
     </td>
   </tr>
   
@@ -116,6 +120,7 @@
     <td>
         <img align="left" height ="42px" src="icons/termius.svg">
         <img align="left" height ="42px" src="icons/postman.svg">
+        <img align="left" height ="42px" src="icons/solar-putty.png">
         <img align="left" height ="42px" src="icons/draw_io.svg">
     </td>
   </tr>
