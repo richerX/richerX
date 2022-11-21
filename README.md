@@ -65,7 +65,7 @@
 <img align="left" height ="42px" src="icons/windows.svg">
 <img align="left" height ="42px" src="icons/ubuntu.svg">
 <img align="left" height ="42px" src="icons/debian.svg">
-<img align="left" height ="42px" src="icons/redhat.png">
+<img align="left" height ="42px" src="icons/redhat.svg">
 <br><br></p>
 
 <p>
