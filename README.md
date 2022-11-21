@@ -11,17 +11,22 @@
 ![Most Used Languages](https://raw.githubusercontent.com/richerX/github-stats-transparent/output/generated/languages.svg)
 
 ### :hammer: Languages and Tools
+<p>
 <img align="left" height ="42px" src="icons/python.svg">
 <img align="left" height ="42px" src="icons/c-sharp.svg">
 <img align="left" height ="42px" src="icons/c++.svg">
 <img align="left" height ="42px" src="icons/c.svg">
 <img align="left" height ="42px" src="icons/java.svg">
 <img align="left" height ="42px" src="icons/javascript.svg">
+<img align="left" height ="42px" src="icons/go.svg">
+<img align="left" height ="42px" src="icons/bash-colored.svg">
+<br><br></p>
 
+<p>
 <img align="left" height ="42px" src="icons/pytorch.svg">
 <img align="left" height ="42px" src="icons/tensorflow.svg"> 
 <img align="left" height ="42px" src="icons/react.svg">
-<br><br>
+<br><br></p>
 
 ### :email: Contacts
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilya.kunin@mail.ru)
