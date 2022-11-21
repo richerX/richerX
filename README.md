@@ -38,6 +38,9 @@
         <img align="left" height ="42px" src="icons/junit.png">
         <img align="left" height ="42px" src="icons/pytest.svg">
         <img align="left" height ="42px" src="icons/gradle.svg">
+        <img align="left" height ="42px" src="icons/jinja.svg">
+        <img align="left" height ="42px" src="icons/jacoco.svg">
+        <img align="left" height ="42px" src="icons/jazzer.png">
     </td>
   </tr>
   
@@ -54,6 +57,7 @@
     <td>DevOps</td>
     <td>
         <img align="left" height ="42px" src="icons/docker.svg">
+        <img align="left" height ="42px" src="icons/gitlab-yml.svg">
         <img align="left" height ="42px" src="icons/jenkins.svg">
     </td>
   </tr>
