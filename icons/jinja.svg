@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 27.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1"
-	 id="svg2" inkscape:export-xdpi="60" inkscape:export-ydpi="60" inkscape:output_extension="org.inkscape.output.svg.inkscape" inkscape:version="0.45.1" sodipodi:docname="jinjalogo.svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://web.resource.org/cc/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" inkscape:export-xdpi="60" inkscape:output_extension="org.inkscape.output.svg.inkscape" sodipodi:docname="jinjalogo.svg"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100"
 	 style="enable-background:new 0 0 100 100;" xml:space="preserve">
 <style type="text/css">
-	.st0{display:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:round;}
-	.st1{display:none;stroke:#000000;}
-	.st2{fill-rule:evenodd;clip-rule:evenodd;stroke:#000000;}
+	.st0{display:none;fill:#6699FF;stroke:#000000;stroke-width:0.8;stroke-linejoin:round;}
+	.st1{display:none;fill:#6699FF;stroke:#000000;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#6699FF;stroke:#000000;}
 </style>
 <sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" gridtolerance="10000" guidetolerance="10" height="120px" id="base" inkscape:current-layer="layer1" inkscape:cx="137.4752" inkscape:cy="57.574575" inkscape:document-units="px" inkscape:guide-bbox="true" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="900" inkscape:window-width="1396" inkscape:window-x="0" inkscape:window-y="22" inkscape:zoom="2.8" objecttolerance="10" pagecolor="#ffffff" showguides="true" width="300px">
 	</sodipodi:namedview>
@@ -40,13 +40,13 @@
 		c2.3,1.6,3.5,4.4,3.5,8.2c0,1-0.1,2.9-0.2,5.6c-0.1,2.7-0.1,4.5-0.1,5.4C248,61.8,248.3,65.4,249,68.5 M242.6,62.1
 		c-0.1-3.3-0.2-6.3-0.2-9c-4.5,0-8,0.3-10.4,0.9c-4,1.1-5.9,3.2-5.9,6.3c0,3,2.3,4.5,7,4.5C237,64.8,240.2,63.9,242.6,62.1"/>
 	<path id="path4735" class="st2" d="M94.8,6.5c0,0-17.2,8.2-31.3,10.1c-14,1.8-40.8,3.6-46.1,2.4c-5.3-1.3-9.1-2.8-9.1-2.8l1.1,3.7
-		l-3.4,3L6.6,24L8,24l4.3,0.5l0.6,1.9l2.4,0.2l1.2,4.1c0,0,5.1,0.4,6.6,0.4s4.5-0.2,4.5-0.2l0.1,1.6l1.1,0.2v1.8l-2.4,2.1l0.6,0.1
-		v0.7c0,0-5.4,0.4-7.6,0.1c-2.2-0.3-2.6-0.3-2.6-0.3l-0.2,0.2l-0.1,1H17l0.2,4.2l11.1-0.4l-0.8,14.4l-0.1,1.8L18,58l-0.1-3.9H20
-		l0.2-1.5l1.9-0.4l0.3-0.4l-7.1-1.7l-5.4,1.6l0.9,0.8h0.9l0.1,1.3l1.9,0.1v3.7l-2.1,0.5L12,59l0.5,0.3v2.9h1.3v13.4l-2.1,0.3
-		l0.3,3.9l1.3,0.2l-0.2,8.8l5.7,0.1l-1.2-8.7l8.6-0.2l-0.6,4.7L24.8,88l8.7,0.1l0.1-8.6l6-0.5l-0.3,5.5l-0.2,3.2h5.1L44,78.9
-		l0.7,0.1l0.2-4.2h-0.8l-0.3-1.7l-0.5-4.9l0.2-5.7h1.1v-3.4l-1.4,0.1l0.2-4L45,55l0.1-1.3l0.9-0.1l0.9-0.7l-5.7-1.2L35.5,53l0.6,0.9
-		l0.6-0.1h0.7l0.1,1.7l1.6-0.1V59l-6.8-0.2l0.2-3.8l0.2-3.5v-4.6l0.2-4.8l13.6-0.7l16.2-0.9l0.2,3.1L62.3,51L62,57.9l-6-0.1V53
-		l2.2-0.1l0.1-1.4l0.9-0.1v-0.3l0.9-0.1l0.5-0.7l-6.7-1.6l-6.7,1.4l0.5,0.8l0.8-0.1v0.4h0.9v1.5h2v4.2h-2v1l0.7,0.1L50,61.7l1.5,0.1
+		l-3.4,3L6.6,24H8l4.3,0.5l0.6,1.9l2.4,0.2l1.2,4.1c0,0,5.1,0.4,6.6,0.4s4.5-0.2,4.5-0.2l0.1,1.6l1.1,0.2v1.8l-2.4,2.1l0.6,0.1v0.7
+		c0,0-5.4,0.4-7.6,0.1c-2.2-0.3-2.6-0.3-2.6-0.3l-0.2,0.2l-0.1,1H17l0.2,4.2l11.1-0.4l-0.8,14.4l-0.1,1.8L18,58l-0.1-3.9H20l0.2-1.5
+		l1.9-0.4l0.3-0.4l-7.1-1.7l-5.4,1.6l0.9,0.8h0.9l0.1,1.3l1.9,0.1v3.7l-2.1,0.5L12,59l0.5,0.3v2.9h1.3v13.4l-2.1,0.3l0.3,3.9
+		l1.3,0.2l-0.2,8.8l5.7,0.1l-1.2-8.7l8.6-0.2l-0.6,4.7L24.8,88l8.7,0.1l0.1-8.6l6-0.5l-0.3,5.5l-0.2,3.2h5.1L44,78.9l0.7,0.1
+		l0.2-4.2h-0.8l-0.3-1.7l-0.5-4.9l0.2-5.7h1.1v-3.4l-1.4,0.1l0.2-4L45,55l0.1-1.3l0.9-0.1l0.9-0.7l-5.7-1.2L35.5,53l0.6,0.9l0.6-0.1
+		h0.7l0.1,1.7l1.6-0.1V59l-6.8-0.2l0.2-3.8l0.2-3.5v-4.6l0.2-4.8l13.6-0.7l16.2-0.9l0.2,3.1L62.3,51L62,57.9l-6-0.1V53l2.2-0.1
+		l0.1-1.4l0.9-0.1v-0.3l0.9-0.1l0.5-0.7l-6.7-1.6l-6.7,1.4l0.5,0.8l0.8-0.1v0.4h0.9v1.5h2v4.2h-2v1l0.7,0.1L50,61.7l1.5,0.1
 		l-0.2,14.5l-2,0.4v0.7H50v3.7h1.1L51,86.3l-0.4,4.4l7.1,0.2L57.5,87L57,83.9l-0.1-2.8l6-0.1l-0.2,4.3v4.5l3.4,0.3l4.6-0.2l1.5-0.4
 		L71.4,87l-0.2-3.8l-0.4-2.7l5.8-0.2l-0.3,3.3v5.2l2.3,0.2l2.3-0.1l1.1-0.3l-0.7-5L81.1,80l1-0.1v-3.3l0.3-0.1v-0.7h-1.1L81,73.3
 		l-0.1-10.7h0.9v-3.5l0.4,0.1v-0.7l-1.3-0.1v-4.1l2.1-0.2l-0.1-1.4l0.9-0.1l-0.1-0.3l1.2-0.6l-6.2-1.3l-6.3,1.3l0.4,0.7l1-0.1
