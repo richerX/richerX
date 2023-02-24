@@ -80,7 +80,6 @@
         <img align="left" width ="42px" src="icons/scikit_learn.svg">
         <img align="left" width ="42px" src="icons/tensorflow.svg"> 
         <img align="left" width ="42px" src="icons/pytorch.svg">
-        <img align="left" width ="42px" src="icons/matplotlib.svg">
     </td>
   </tr>
   
