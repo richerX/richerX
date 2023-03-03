@@ -67,7 +67,7 @@
     <td>
         <img align="left" width ="42px" src="icons/unity.svg">
         <img align="left" width ="42px" src="icons/unreal-engine.svg">
-        <img align="left" width ="42px" src="icons/java_fx.svg">
+        <img align="left" width ="42px" src="icons/java-fx.svg">
         <img align="left" width ="42px" src="icons/winforms.png">
     </td>
   </tr>
@@ -77,7 +77,7 @@
     <td>
         <img align="left" width ="42px" src="icons/numpy.svg">
         <img align="left" width ="42px" src="icons/pandas.svg">
-        <img align="left" width ="42px" src="icons/scikit_learn.svg">
+        <img align="left" width ="42px" src="icons/scikit-learn.svg">
         <img align="left" width ="42px" src="icons/tensorflow.svg"> 
         <img align="left" width ="42px" src="icons/pytorch.svg">
     </td>
@@ -120,7 +120,7 @@
         <img align="left" width ="42px" src="icons/termius.svg">
         <img align="left" width ="42px" src="icons/postman.svg">
         <img align="left" width ="42px" src="icons/solar-putty.png">
-        <img align="left" width ="42px" src="icons/draw_io.svg">
+        <img align="left" width ="42px" src="icons/draw-io.svg">
     </td>
   </tr>
   
