@@ -21,8 +21,8 @@
     <td>Languages</td>
     <td>
         <img align="left" width ="42px" src="icons/python.svg">
-        <img align="left" width ="42px" src="icons/csharp.svg">
-        <img align="left" width ="42px" src="icons/cplusplus.svg">
+        <img align="left" width ="42px" src="icons/c-sharp.svg">
+        <img align="left" width ="42px" src="icons/c++.svg">
         <img align="left" width ="42px" src="icons/c.svg">
         <img align="left" width ="42px" src="icons/java.svg">
         <img align="left" width ="42px" src="icons/javascript.svg">
@@ -109,7 +109,7 @@
     <td>
         <img align="left" width ="42px" src="icons/jetbrains.svg">
         <img align="left" width ="42px" src="icons/visualstudio.svg">
-        <img align="left" width ="42px" src="icons/visual-studio-code.svg">
+        <img align="left" width ="42px" src="icons/visualstudio-code.svg">
         <img align="left" width ="42px" src="icons/wing.png">
     </td>
   </tr>
