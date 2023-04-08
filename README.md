@@ -35,12 +35,11 @@
   <tr>
     <td>Testing</td>
     <td>
-        <img align="left" width ="42px" src="icons/junit.png">
+        <img align="left" width ="42px" src="icons/junit.svg">
         <img align="left" width ="42px" src="icons/pytest.svg">
         <img align="left" width ="42px" src="icons/gradle.svg">
         <img align="left" width ="42px" src="icons/jinja.svg">
         <img align="left" width ="42px" src="icons/jacoco.svg">
-        <img align="left" width ="42px" src="icons/jazzer.png">
     </td>
   </tr>
   
@@ -110,7 +109,7 @@
         <img align="left" width ="42px" src="icons/net.svg">
         <img align="left" width ="42px" src="icons/react.svg">
         <img align="left" width ="42px" src="icons/zend.svg">
-        <img align="left" width ="42px" src="icons/guzzle.png">
+        <img align="left" width ="42px" src="icons/guzzle.svg">
         <img align="left" width ="42px" src="icons/maven.svg">
     </td>
   </tr>
@@ -136,7 +135,7 @@
         <img align="left" width ="42px" src="icons/jetbrains.svg">
         <img align="left" width ="42px" src="icons/visualstudio.svg">
         <img align="left" width ="42px" src="icons/visualstudio-code.svg">
-        <img align="left" width ="42px" src="icons/wing.png">
+        <img align="left" width ="42px" src="icons/wing.svg">
     </td>
   </tr>
   
@@ -145,7 +144,7 @@
     <td>
         <img align="left" width ="42px" src="icons/termius.svg">
         <img align="left" width ="42px" src="icons/postman.svg">
-        <img align="left" width ="42px" src="icons/solar-putty.png">
+        <img align="left" width ="42px" src="icons/solar-putty.svg">
         <img align="left" width ="42px" src="icons/draw-io.svg">
     </td>
   </tr>
