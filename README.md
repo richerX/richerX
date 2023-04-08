@@ -66,6 +66,7 @@
   <tr>
     <td>Monitoring</td>
     <td>
+        <img align="left" width ="42px" src="icons/grafana.svg">
         <img align="left" width ="42px" src="icons/prometheus.svg">
     </td>
   </tr>
@@ -155,6 +156,7 @@
         <img align="left" width ="42px" src="icons/github.svg">
         <img align="left" width ="42px" src="icons/gitlab.svg">
         <img align="left" width ="42px" src="icons/jira.svg">
+        <img align="left" width ="42px" src="icons/miro.svg">
     </td>
   </tr>
   
