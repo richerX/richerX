@@ -89,7 +89,7 @@
         <img align="left" width ="42px" src="icons/unity.svg">
         <img align="left" width ="42px" src="icons/unreal-engine.svg">
         <img align="left" width ="42px" src="icons/java-fx.svg">
-        <img align="left" width ="42px" src="icons/winforms.png">
+        <img align="left" width ="42px" src="icons/winforms.svg">
     </td>
   </tr>
   
