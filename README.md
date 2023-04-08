@@ -73,7 +73,8 @@
   <tr>
     <td>Brokers</td>
     <td>
-        <img align="left" height ="42px" src="icons/kafka.svg">
+        <img align="left" width ="42px" src="icons/kafka.svg">
+        <img align="left" width ="42px" src="icons/opensearch.svg">
     </td>
   </tr>
   
