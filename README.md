@@ -50,6 +50,7 @@
         <img align="left" width ="42px" src="icons/sqlite.svg">
         <img align="left" width ="42px" src="icons/postgresql.svg">
         <img align="left" width ="42px" src="icons/ninox.svg">
+        <img align="left" width ="42px" src="icons/redis.svg">
     </td>
   </tr>
   
@@ -60,6 +61,25 @@
         <img align="left" width ="42px" src="icons/gitlab.svg">
         <img align="left" width ="42px" src="icons/jenkins.svg">
     </td>
+  </tr>
+  
+  <tr>
+    <td>Monitoring</td>
+    <td>
+        <img align="left" width ="42px" src="icons/prometheus.svg">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Brokers</td>
+    <td>
+        <img align="left" height ="42px" src="icons/kafka.svg">
+    </td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td></td>
   </tr>
   
   <tr>
@@ -92,6 +112,11 @@
         <img align="left" width ="42px" src="icons/guzzle.png">
         <img align="left" width ="42px" src="icons/maven.svg">
     </td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td></td>
   </tr>
   
   <tr>
