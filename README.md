@@ -12,12 +12,12 @@
 
 ### :hammer: Languages and Tools
 <table>
-  <tr>
+  <tr height="50px">
     <th>Group</th>
     <th>Languages and Tools</th>
   </tr>
   
-  <tr>
+  <tr height="50px">
     <td>Languages</td>
     <td>
         <img align="left" width ="42px" src="icons/python.svg">
@@ -32,7 +32,7 @@
     </td>
   </tr>
   
-  <tr>
+  <tr height="50px">
     <td>Testing</td>
     <td>
         <img align="left" width ="42px" src="icons/junit.svg">
@@ -43,7 +43,7 @@
     </td>
   </tr>
   
-  <tr>
+  <tr height="50px">
     <td>Databases</td>
     <td>
         <img align="left" width ="42px" src="icons/sqlite.svg">
@@ -53,7 +53,7 @@
     </td>
   </tr>
   
-  <tr>
+  <tr height="50px">
     <td>DevOps</td>
     <td>
         <img align="left" width ="42px" src="icons/docker.svg">
@@ -62,7 +62,7 @@
     </td>
   </tr>
   
-  <tr>
+  <tr height="50px">
     <td>Monitoring</td>
     <td>
         <img align="left" width ="42px" src="icons/grafana.svg">
@@ -70,7 +70,7 @@
     </td>
   </tr>
   
-  <tr>
+  <tr height="50px">
     <td>Brokers</td>
     <td>
         <img align="left" width ="42px" src="icons/kafka.svg">
@@ -83,7 +83,7 @@
     <td></td>
   </tr>
   
-  <tr>
+  <tr height="50px">
     <td>Graphics</td>
     <td>
         <img align="left" width ="42px" src="icons/unity.svg">
@@ -93,7 +93,7 @@
     </td>
   </tr>
   
-  <tr>
+  <tr height="50px">
     <td>Data analysis</td>
     <td>
         <img align="left" width ="42px" src="icons/numpy.svg">
@@ -104,7 +104,7 @@
     </td>
   </tr>
   
-  <tr>
+  <tr height="50px">
     <td>Frameworks</td>
     <td>
         <img align="left" width ="42px" src="icons/net.svg">
@@ -120,7 +120,7 @@
     <td></td>
   </tr>
   
-  <tr>
+  <tr height="50px">
     <td>OS</td>
     <td>
         <img align="left" width ="42px" src="icons/windows.svg">
@@ -130,7 +130,7 @@
     </td>
   </tr>
   
-  <tr>
+  <tr height="50px">
     <td>IDE</td>
     <td>
         <img align="left" width ="42px" src="icons/jetbrains.svg">
@@ -140,7 +140,7 @@
     </td>
   </tr>
   
-  <tr>
+  <tr height="50px">
     <td>Utils</td>
     <td>
         <img align="left" width ="42px" src="icons/termius.svg">
@@ -150,7 +150,7 @@
     </td>
   </tr>
   
-  <tr>
+  <tr height="50px">
     <td>Team</td>
     <td>
         <img align="left" width ="42px" src="icons/github.svg">
