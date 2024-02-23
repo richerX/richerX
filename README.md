@@ -3,7 +3,7 @@
 <h3 align="center">Computer science student at HSE and software engineer from Moscow, Russia</h3>
 
 ### :curly_loop: Bio
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+currently+23+years+old)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+currently+24+years+old)](https://git.io/typing-svg)
 
 ### :trophy: Stats
 
