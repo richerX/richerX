@@ -11,163 +11,156 @@
 ![Most Used Languages](https://raw.githubusercontent.com/richerX/github-stats-transparent/output/generated/languages.svg)
 
 ### :hammer: Languages and Tools
+<style>
+    .icon-row {
+        height: 50px;
+    }
+
+    .icon {
+        width: 40px;
+        max-height: 40px;
+        margin-inline: 3px;
+    }
+</style>
+
 <table>
-  <tr height="50px">
-    <th>Group</th>
-    <th>Languages and Tools</th>
-  </tr>
-  
-  <tr height="50px">
-    <td>Languages</td>
-    <td>
-        <img align="left" width ="42px" src="icons/python.svg">
-        <img align="left" width ="42px" src="icons/c-sharp.svg">
-        <img align="left" width ="42px" src="icons/c++.svg">
-        <img align="left" width ="42px" src="icons/c.svg">
-        <img align="left" width ="42px" src="icons/java.svg">
-        <img align="left" width ="42px" src="icons/javascript.svg">
-        <img align="left" width ="42px" src="icons/php.svg">
-        <img align="left" width ="42px" src="icons/go.svg">
-        <img align="left" width ="42px" src="icons/bash-colored.svg">
-    </td>
-  </tr>
-  
-  <tr height="50px">
-    <td>Testing</td>
-    <td>
-        <img align="left" width ="42px" src="icons/junit.svg">
-        <img align="left" width ="42px" src="icons/pytest.svg">
-        <img align="left" width ="42px" src="icons/gradle.svg">
-        <img align="left" width ="42px" src="icons/jinja.svg">
-        <img align="left" width ="42px" src="icons/jacoco.svg">
-    </td>
-  </tr>
-  
-  <tr height="50px">
-    <td>Databases</td>
-    <td>
-        <img align="left" width ="42px" src="icons/sqlite.svg">
-        <img align="left" width ="42px" src="icons/postgresql.svg">
-        <img align="left" width ="42px" src="icons/ninox.svg">
-        <img align="left" width ="42px" src="icons/redis.svg">
-    </td>
-  </tr>
-  
-  <tr height="50px">
-    <td>DevOps</td>
-    <td>
-        <img align="left" width ="42px" src="icons/docker.svg">
-        <img align="left" width ="42px" src="icons/gitlab.svg">
-        <img align="left" width ="42px" src="icons/jenkins.svg">
-    </td>
-  </tr>
-  
-  <tr height="50px">
-    <td>Monitoring</td>
-    <td>
-        <img align="left" width ="42px" src="icons/grafana.svg">
-        <img align="left" width ="42px" src="icons/prometheus.svg">
-    </td>
-  </tr>
-  
-  <tr height="50px">
-    <td>Brokers</td>
-    <td>
-        <img align="left" width ="42px" src="icons/kafka.svg">
-        <img align="left" width ="42px" src="icons/opensearch.svg">
-    </td>
-  </tr>
-  
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr height="50px">
-    <td>Graphics</td>
-    <td>
-        <img align="left" width ="42px" src="icons/unity.svg">
-        <img align="left" width ="42px" src="icons/unreal-engine.svg">
-        <img align="left" width ="42px" src="icons/java-fx.svg">
-        <img align="left" width ="42px" src="icons/winforms.svg">
-    </td>
-  </tr>
-  
-  <tr height="50px">
-    <td>Data analysis</td>
-    <td>
-        <img align="left" width ="42px" src="icons/numpy.svg">
-        <img align="left" width ="42px" src="icons/pandas.svg">
-        <img align="left" width ="42px" src="icons/scikit-learn.svg">
-        <img align="left" width ="42px" src="icons/tensorflow.svg"> 
-        <img align="left" width ="42px" src="icons/pytorch.svg">
-    </td>
-  </tr>
-  
-  <tr height="50px">
-    <td>Frameworks</td>
-    <td>
-        <img align="left" width ="42px" src="icons/net.svg">
-        <img align="left" width ="42px" src="icons/react.svg">
-        <img align="left" width ="42px" src="icons/zend.svg">
-        <img align="left" width ="42px" src="icons/guzzle.svg">
-        <img align="left" width ="42px" src="icons/maven.svg">
-    </td>
-  </tr>
-  
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr height="50px">
-    <td>OS</td>
-    <td>
-        <img align="left" width ="42px" src="icons/windows.svg">
-        <img align="left" width ="42px" src="icons/ubuntu.svg">
-        <img align="left" width ="42px" src="icons/debian.svg">
-        <img align="left" width ="42px" src="icons/redhat.svg">
-    </td>
-  </tr>
-  
-  <tr height="50px">
-    <td>IDE</td>
-    <td>
-        <img align="left" width ="42px" src="icons/jetbrains.svg">
-        <img align="left" width ="42px" src="icons/visualstudio.svg">
-        <img align="left" width ="42px" src="icons/visualstudio-code.svg">
-        <img align="left" width ="42px" src="icons/wing.svg">
-    </td>
-  </tr>
-  
-  <tr height="50px">
-    <td>Utils</td>
-    <td>
-        <img align="left" width ="42px" src="icons/termius.svg">
-        <img align="left" width ="42px" src="icons/postman.svg">
-        <img align="left" width ="42px" src="icons/solar-putty.svg">
-        <img align="left" width ="42px" src="icons/draw-io.svg">
-    </td>
-  </tr>
-  
-  <tr height="50px">
-    <td>Team</td>
-    <td>
-        <img align="left" width ="42px" src="icons/github.svg">
-        <img align="left" width ="42px" src="icons/gitlab.svg">
-        <img align="left" width ="42px" src="icons/jira.svg">
-        <img align="left" width ="42px" src="icons/miro.svg">
-    </td>
-  </tr>
-  
+    <tr class="icon-row">
+        <th>Group</th>
+        <th>Languages and Tools</th>
+    </tr>
+    <tr class="icon-row">
+        <td>Languages</td>
+        <td>
+            <img class="icon" src="icons/python.svg">
+            <img class="icon" src="icons/c-sharp.svg">
+            <img class="icon" src="icons/c++.svg">
+            <img class="icon" src="icons/c.svg">
+            <img class="icon" src="icons/java.svg">
+            <img class="icon" src="icons/javascript.svg">
+            <img class="icon" src="icons/php.svg">
+            <img class="icon" src="icons/go.svg">
+            <img class="icon" src="icons/bash-colored.svg">
+        </td>
+    </tr>
+    <tr class="icon-row">
+        <td>Testing</td>
+        <td>
+            <img class="icon" src="icons/junit.svg">
+            <img class="icon" src="icons/pytest.svg">
+            <img class="icon" src="icons/gradle.svg">
+            <img class="icon" src="icons/jinja.svg">
+            <img class="icon" src="icons/jacoco.svg">
+        </td>
+    </tr>
+    <tr class="icon-row">
+        <td>Databases</td>
+        <td>
+            <img class="icon" src="icons/sqlite.svg">
+            <img class="icon" src="icons/postgresql.svg">
+            <img class="icon" src="icons/ninox.svg">
+            <img class="icon" src="icons/redis.svg">
+        </td>
+    </tr>
+    <tr class="icon-row">
+        <td>DevOps</td>
+        <td>
+            <img class="icon" src="icons/docker.svg">
+            <img class="icon" src="icons/gitlab.svg">
+            <img class="icon" src="icons/jenkins.svg">
+        </td>
+    </tr>
+    <tr class="icon-row">
+        <td>Monitoring</td>
+        <td>
+            <img class="icon" src="icons/grafana.svg">
+            <img class="icon" src="icons/prometheus.svg">
+        </td>
+    </tr>
+    <tr class="icon-row">
+        <td>Brokers</td>
+        <td>
+            <img class="icon" src="icons/kafka.svg">
+            <img class="icon" src="icons/rabbitmq.svg">
+            <img class="icon" src="icons/opensearch.svg">
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr class="icon-row">
+        <td>Graphics</td>
+        <td>
+            <img class="icon" src="icons/unity.svg">
+            <img class="icon" src="icons/unreal-engine.svg">
+            <img class="icon" src="icons/java-fx.svg">
+            <img class="icon" src="icons/winforms.svg">
+        </td>
+    </tr>
+    <tr class="icon-row">
+        <td>Data analysis</td>
+        <td>
+            <img class="icon" src="icons/numpy.svg">
+            <img class="icon" src="icons/pandas.svg">
+            <img class="icon" src="icons/scikit-learn.svg">
+            <img class="icon" src="icons/tensorflow.svg"> 
+            <img class="icon" src="icons/pytorch.svg">
+        </td>
+    </tr>
+    <tr class="icon-row">
+        <td>Frameworks</td>
+        <td>
+            <img class="icon" src="icons/net.svg">
+            <img class="icon" src="icons/react.svg">
+            <img class="icon" src="icons/zend.svg">
+            <img class="icon" src="icons/guzzle.svg">
+            <img class="icon" src="icons/maven.svg">
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr class="icon-row">
+        <td>OS</td>
+        <td>
+            <img class="icon" src="icons/windows.svg">
+            <img class="icon" src="icons/ubuntu.svg">
+            <img class="icon" src="icons/debian.svg">
+            <img class="icon" src="icons/redhat.svg">
+        </td>
+    </tr>
+    <tr class="icon-row">
+        <td>IDE</td>
+        <td>
+            <img class="icon" src="icons/jetbrains.svg">
+            <img class="icon" src="icons/visualstudio.svg">
+            <img class="icon" src="icons/visualstudio-code.svg">
+            <img class="icon" src="icons/wing.svg">
+        </td>
+    </tr>
+    <tr class="icon-row">
+        <td>Utils</td>
+        <td>
+            <img class="icon" src="icons/termius.svg">
+            <img class="icon" src="icons/postman.svg">
+            <img class="icon" src="icons/solar-putty.svg">
+            <img class="icon" src="icons/draw-io.svg">
+        </td>
+    </tr>
+    <tr class="icon-row">
+        <td>Team</td>
+        <td>
+            <img class="icon" src="icons/github.svg">
+            <img class="icon" src="icons/gitlab.svg">
+            <img class="icon" src="icons/jira.svg">
+            <img class="icon" src="icons/miro.svg">
+        </td>
+    </tr>
 </table>
-
-
-
 
 <br><br>
 
 ### :email: Contacts
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilya.kunin@mail.ru)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://ilya.code.tilda.ws/)
-
