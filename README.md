@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="http://ilya.code.tilda.ws" target="_blank">Ilya</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32"/></h1>
-<h3 align="center">Computer science student and software engineer</h3>
+<h3 align="center">Software engineer and graduate computer engineering student</h3>
 
 ### :curly_loop: Bio
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+currently+25+years+old)](https://git.io/typing-svg)
