@@ -20,7 +20,7 @@
 <img width ="65px" src="icons/ninox.svg">
 <img width ="65px" src="icons/redis.svg">
 
-### :notebook: DevOps & Monitoring
+### :computer: DevOps & Monitoring
 <img width ="65px" src="icons/docker.svg"> <img width ="65px" src="icons/gitlab.svg">
 <img width ="65px" src="icons/jenkins.svg">
 <img width ="65px" src="icons/grafana.svg">
