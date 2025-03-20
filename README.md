@@ -5,11 +5,6 @@
 ### :curly_loop: Bio
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+currently+24+years+old)](https://git.io/typing-svg)
 
-### :trophy: Stats
-
-![Stats Overview](https://raw.githubusercontent.com/richerX/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/richerX/github-stats-transparent/output/generated/languages.svg)
-
 ### :hammer: Languages and Tools
 <table>
     <tr height="50px">
